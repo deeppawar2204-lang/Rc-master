@@ -1,0 +1,5 @@
+streamlit==1.64.0
+pandas==3.0.6
+PyMuPDF==1.28.2
+bcrypt==5.0.0
+psycopg[binary]>=3.2,<4
